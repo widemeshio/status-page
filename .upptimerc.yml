@@ -6,21 +6,29 @@ sites:
   - name: Vault 
     url: https://vaulty.widemesh.com/v1/sys/health
     method: HEAD
+    showAverageResponseTime: false
   - name: Widemesh Registry Auth
     url: https://id-registry.widemesh.com
+    showAverageResponseTime: false
   - name: Widemesh Registry Service
     url: https://registry.widemesh.com
+    showAverageResponseTime: false
   - name: Widemesh Logs
     url: https://logs.widemesh.com
+    showAverageResponseTime: false
   - name: Widemesh KV
     url: https://challenger.widemesh.com
+    showAverageResponseTime: false
   - name: Widemesh Identity
     url: https://id.widemesh.com
+    showAverageResponseTime: false
   - name: Widemesh API
     url: https://api.widemesh.com
+    showAverageResponseTime: false
 
 status-website:
   cname: status.widemesh.com
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Widemesh Status
   introTitle: Here you can find the status of all our services.
@@ -28,8 +36,11 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: widemesh.com
+    - title: Homepage
       href: https://widemesh.com
+
+assignees:
+  - bithavoc
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
