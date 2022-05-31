@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/vaulty.widemesh.com",
     "slug": "vault",
     "status": "up",
-    "uptime": "1.63%",
-    "uptimeDay": "1.63%",
-    "uptimeWeek": "1.63%",
-    "uptimeMonth": "1.63%",
-    "uptimeYear": "1.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 241,
     "timeWeek": 241,
     "timeMonth": 241,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2022-05-31": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Widemesh Registry Auth",
