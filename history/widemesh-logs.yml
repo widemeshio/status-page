@@ -1,7 +1,7 @@
 url: https://logs.widemesh.com
-status: up
-code: 200
-responseTime: 220
-lastUpdated: 2022-11-24T13:39:42.726Z
+status: down
+code: 521
+responseTime: 87
+lastUpdated: 2022-11-24T16:42:31.611Z
 startTime: Tue May 31 2022 23:29:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
