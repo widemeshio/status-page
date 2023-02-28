@@ -1,7 +1,7 @@
 url: https://api.widemesh.com
-status: down
-code: 503
-responseTime: 277
-lastUpdated: 2023-02-28T15:44:21.652Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2023-02-28T15:51:59.491Z
 startTime: Tue May 31 2022 23:29:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
