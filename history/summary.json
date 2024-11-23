@@ -4,83 +4,91 @@
     "url": "https://vaulty.widemesh.com/v1/sys/health",
     "icon": "https://icons.duckduckgo.com/ip3/vaulty.widemesh.com.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 273,
     "timeWeek": 214,
     "timeMonth": 250,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 8
+    }
   },
   {
     "name": "Widemesh Registry Auth",
     "url": "https://id-registry.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/id-registry.widemesh.com.ico",
     "slug": "widemesh-registry-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 302,
     "timeWeek": 226,
     "timeMonth": 252,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 7
+    }
   },
   {
     "name": "Widemesh Registry Service",
     "url": "https://registry.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/registry.widemesh.com.ico",
     "slug": "widemesh-registry-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 310,
     "timeWeek": 212,
     "timeMonth": 215,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 6
+    }
   },
   {
     "name": "Widemesh Logs",
     "url": "https://logs.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/logs.widemesh.com.ico",
     "slug": "widemesh-logs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 189,
+    "time": 190,
     "timeDay": 256,
     "timeWeek": 186,
     "timeMonth": 222,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 5
+    }
   },
   {
     "name": "Widemesh KV",
     "url": "https://challenger.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/challenger.widemesh.com.ico",
     "slug": "widemesh-kv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 298,
@@ -88,6 +96,7 @@
     "timeMonth": 232,
     "timeYear": 197,
     "dailyMinutesDown": {
+      "2024-11-23": 3,
       "2023-12-19": 19
     }
   },
@@ -96,27 +105,29 @@
     "url": "https://id.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/id.widemesh.com.ico",
     "slug": "widemesh-identity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
+    "time": 190,
     "timeDay": 364,
     "timeWeek": 210,
     "timeMonth": 235,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-23": 2
+    }
   },
   {
     "name": "Widemesh API",
     "url": "https://api.widemesh.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.widemesh.com.ico",
     "slug": "widemesh-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -126,6 +137,7 @@
     "timeMonth": 224,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2024-11-23": 0,
       "2024-10-22": 57
     }
   }
